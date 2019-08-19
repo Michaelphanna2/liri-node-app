@@ -21,7 +21,7 @@
   
 
 4. Include screenshots, gifs or videos of the app functioning
-
+    There are 4 png files attached to this repository which show each of the four command lines being executed. The 4th one is labeled as "Liri 4 Error" because, while everything else works, I keep getting an error for the "do-what-it-says" command. 
 
 5. Contain a link to a deployed version of the app
 

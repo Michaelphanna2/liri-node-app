@@ -18,6 +18,7 @@
      For example, if I wanted to find out information on my favorite comedy movie, Young Frankenstein, I would type in the following:
           node liri movie-this young frankenstein
      Running this should take my request and go out to the OMDB site, grab the information it has available for Young Frankenstein, and          display it in the terminal for me to read.
+    Additionally, special circumstances were set up for two instances. First, if the user tries to run Spotify-this-song but does not put in any search criteria, the API will bring back results for The Sign. Also, if a similar situation occurs on the movie-this command, it will pull back results on Mr. Nobody. 
   
 
 4. Include screenshots, gifs or videos of the app functioning

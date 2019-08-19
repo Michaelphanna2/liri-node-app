@@ -1,6 +1,7 @@
 # liri-node-app
 
 1. Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
+    
     -Liri is being created to provide a way for a user to type requests into the command line to request information on specific entertainment topics such as music and movies. 
 
 2. Give a high-level overview of how the app is organized
